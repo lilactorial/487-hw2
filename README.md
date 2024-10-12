@@ -3,4 +3,4 @@
 
 **Programming Language:**  Python
 
-Please see the .mp4 files to see usage as well as possible errors being checked.
+Please see the .mp4 files in the use-videos.zip to see usage as well as possible errors being checked.
