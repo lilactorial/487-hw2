@@ -1,8 +1,9 @@
 ##################################
 #   Lilac Dixon
 #   CMPSC 487W
-#   Section 002   
-#
+#   Section 002
+#   Dr. Reza   
+#   Assignment 2
 ##################################
 
 import mysql.connector
